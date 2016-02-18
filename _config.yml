@@ -1,6 +1,6 @@
 name: Emilie
 favicon: null
-layout_spectrum: 0.3386134901084006
+layout_spectrum: 1
 typography_spectrum: 0.4870890942402184
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#070b0a'
+    - '#96a0a9'
+    - '#a8c6ce'
+    - '#f2dfce'
+    - '#2f2c23'
   brandStrength: 0.43061490170657635
   lightness: 0.5449325877707452
   saturation: 0.4774832772091031
